@@ -3,10 +3,10 @@ body{
 }
 
 .home{
-    height: 100vh;
+    height: 110vh;
     background: 
         linear-gradient(rgba(0,0,0,0.1),rgba(0, 0, 0, 0.2)),
-        url(../imgs/background.jpeg);
+        url(../imgs/background.jpg);
     background-size: cover;
 }
 
@@ -21,4 +21,12 @@ body{
 .name{
     font-size: 50px;
     font-weight: 500;
+}
+
+.mainSect{
+    
+    color: black;
+    padding: 0% 20%;
+    text-align: justify;
+    
 }
